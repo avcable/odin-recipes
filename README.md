@@ -1,2 +1,4 @@
 # odin-recipes
 Japanese curry recipe
+Using HTML skills learned in the Foundations portion of The Odin Project, I aim to demonstrate how to create Japanese curry with ingredients sourced in the United States. 
+The HTML skills I aim to employ are: correctly set up the HTML boilerplate; add a Title appropriately; use Headings appropriately; format text using Strong and Em tags; use a href tags to find links both from other websites and from links in my home directory; use img src to locate images saved within my local directory. And, finally, to share how I learned to make tasty curry back in the U.S. after a few years in Japan.
