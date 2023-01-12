@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(233, 255, 244);
+    text-align: center;
+    font-family: 'Gill Sans', sans-serif;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 72px;
+    color: rgb(255, 108, 86);
+}
+
+h2 {
+    font-size: 66px;
+    color:rgb(255, 108, 86);
+}
+.link {
+    transition-duration: 0.5s;
+    font-size: 48px;
+    border: none;
+    padding: 15px 32px;
+    border-radius: 50%;
+}
+.link:hover {
+    background-color: rgb(255, 108, 86);
+    color: white;
+}
+
+.tlink {
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+/* #curryj {
+    display: hide;
+    height: 400px;
+    width: 500px;
+}
+
+.link.curry:hover + #curryj {
+    display: block;
+    height: 400px;
+    width: 500px;
+} */
+
+.currying,
+.souping,
+.scaling {
+    text-align: left;
+    font-size: 36px;
+}
+.back {
+    font-size: 36px;
+    font-weight: bolder;
+}
